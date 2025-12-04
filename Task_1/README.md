@@ -1,4 +1,0 @@
-- Git installation + GitHub account setup
-- Repo cloning, branch creation, commits, push, PR workflow
-- Linux tasks: file creation, permissions, package installs
-- Basic shell script (backup script)
